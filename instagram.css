@@ -1,0 +1,51 @@
+.header {
+  width: 100%;
+  height: 77px;
+  background-color: lightblue;
+}
+.main {
+
+  width: 935px;
+  height: 400px;
+  background-color: lightyellow;
+}
+.main {
+  margin: auto;
+  width: 935px;
+
+}
+.user {
+  display: flex;
+  height: 150px;
+  width: 935px;
+  background-color: #b77bfc;
+}
+
+.avatar {
+  width: 291px;
+  height: 150px;
+background-color: #ff77a4;
+}
+
+.description {
+  height: 150px;
+  width: 644px;
+  background-color:  orange;
+
+}
+.photos {
+  width: 935px;
+  background-color: #ea9a19;
+}
+.line {
+width: 935px;
+background-color: #ea4918;
+display: flex;
+justify-content: space-between;
+}
+.picture {
+  height: 293px;
+  width: 293px;
+  background-color: #2495f2;
+margin: 5px;
+}
